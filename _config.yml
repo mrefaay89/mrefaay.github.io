@@ -1,16 +1,4 @@
 title: Mohamed Refaay
-email: mrefaay@outlook.com # ضع بريدك هنا
-description: >-
-  Technical Blog about Virtualization, Nutanix, Data Protection, and Cloud Infrastructure.
-baseurl: "" 
+email: mrefaay@outlook.com 
 url: "https://mrefaay89.github.io"
 theme: jekyll-theme-minimal
-
-# إعدادات إضافية لجعلها تشبه المثال
-header_pages:
-  - index.md
-  - about.md
-
-# تنسيقات إضافية
-minima:
-  skin: classic # يعطي المظهر الأبيض الهادئ مثل المثال
