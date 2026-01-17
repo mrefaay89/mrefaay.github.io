@@ -1,5 +1,3 @@
-title: My Technical Blog
-email: your-email@example.com
-description: >-
-  مدونة تقنية لمشاركة الخبرات في مجال الحوسبة السحابية والبنية التحتية.
-theme: minima
+theme: jekyll-theme-minimal
+title: Mohamed Refaay's homepage
+description: Technical Blogs
