@@ -56,6 +56,3 @@ Following the official Nutanix workflow, here are the steps to execute the conve
 
 ## Conclusion
 Transitioning to AHV reduces licensing overhead and prepares your environment for native Nutanix automation. By following these steps and prerequisites, you ensure a stable and predictable outcome for your critical workloads.
-
----
-*This guide is part of our internal knowledge base for the technical team. If you are an engineer like **Ahmed Noor** or **Mustafa Mohamed** working on these clusters, please ensure you check the NGT status before starting.*
