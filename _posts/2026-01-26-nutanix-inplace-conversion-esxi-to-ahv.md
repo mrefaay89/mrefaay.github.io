@@ -4,6 +4,7 @@ title: "Deep Dive: Nutanix In-Place Hypervisor Conversion (ESXi to AHV)"
 date: 2026-01-26
 categories: nutanix virtualization infrastructure
 ---
+![Nutanix Conversion Header](/assets/images/nutanix-conversion-header.jpg)
 
 Modernizing your infrastructure doesn't always require complex migrations. The Nutanix **In-Place Hypervisor Conversion** allows you to transform an entire cluster from VMware ESXi to AHV while keeping your data local and secure. This native "1-click" feature simplifies the transition significantly.
 
